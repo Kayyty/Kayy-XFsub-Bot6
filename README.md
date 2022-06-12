@@ -1,4 +1,4 @@
-# 𝗙𝗜𝗟𝗘-𝗦𝗛𝗔𝗥𝗜𝗡𝗚-𝗢𝗨𝗥𝗔𝗔
+# 𝗙𝗜𝗟𝗘-𝗦𝗛𝗔𝗥𝗜𝗡𝗚
 
 
 ### 𝗜𝗡𝗜 𝗙𝗜𝗟𝗘 𝗦𝗛𝗔𝗥𝗜𝗡𝗚 1 𝗕𝗨𝗧𝗧𝗢𝗡 𝗬𝗔 𝗦𝗔𝗬𝗔𝗡𝗚
@@ -11,8 +11,7 @@
 
 
 #### 𝗟𝗜𝗡𝗞 𝗗𝗘𝗣𝗟𝗢𝗬...
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Oura-Ubot/Oura-XFsub-Bot2"> <img src="https://img.shields.io/badge/Web%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV5eU5hZGEvUmV5eS1YRnN1Yi1Cb3QxIG1haW4"> <img src="https://img.shields.io/badge/Bot%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kayyty/Kayy-XFsub-Bot6"> <img src="https://img.shields.io/badge/Web%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### 𝗝𝗔𝗡𝗚𝗔𝗡 𝗟𝗨𝗣𝗔 𝗗𝗜 𝗙𝗢𝗟𝗟𝗢𝗪 𝗬𝗔 ❤
 </p>
@@ -51,3 +50,7 @@
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL1` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL3` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL4` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL5` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL6` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
